@@ -2,6 +2,9 @@
 
 https://www.cursor.com/
 
+Cursor ide 기본 사용법
+https://kimyir.tistory.com/96
+
 ## Dependencies
 
 install python packages
