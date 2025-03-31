@@ -17,3 +17,6 @@ install python packages
   pip install seaborn
 ```
 
+
+### Example data link
+https://data.smartfarmkorea.net/
