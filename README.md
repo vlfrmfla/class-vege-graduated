@@ -1,3 +1,7 @@
+## Cursor 설치
+
+https://www.cursor.com/
+
 ## Dependencies
 
 install python packages
