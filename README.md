@@ -20,3 +20,10 @@ install python packages
 
 ### Example data link
 https://data.smartfarmkorea.net/
+
+
+## Repository download
+
+```
+git clone https://github.com/vlfrmfla/class-vege-graduated
+```
