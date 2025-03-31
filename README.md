@@ -1,4 +1,4 @@
-## Cursor 설치
+## Installation of Cursor
 
 https://www.cursor.com/
 
