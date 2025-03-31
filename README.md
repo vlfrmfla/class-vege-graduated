@@ -1,14 +1,11 @@
 ## dependency
 
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
+install python packages
 
-```python
+```
   pip install numpy
   pip install pandas
   pip install matplotlib
   pip install seaborn
-}
+```
 
