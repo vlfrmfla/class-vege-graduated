@@ -1,4 +1,4 @@
-## dependency
+## Dependencies
 
 install python packages
 
